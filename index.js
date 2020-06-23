@@ -1,4 +1,4 @@
-var authConfig = {
+var authConfig ={
   "siteName": "GoIndex - Drive", // Site Name
   "version" : "2.4", // version
   "basic_auth": false, // change to Basic authentication
